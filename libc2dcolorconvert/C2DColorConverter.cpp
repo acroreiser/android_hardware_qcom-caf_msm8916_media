@@ -30,6 +30,7 @@
 #include <C2DColorConverter.h>
 #include <stdlib.h>
 #include <fcntl.h>
+#include <unistd.h>
 #include <linux/msm_kgsl.h>
 #include <sys/ioctl.h>
 #include <utils/Log.h>
